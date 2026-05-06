@@ -1,0 +1,12 @@
+{
+  "name": "Remix: DroidNotes \u0026 Timer",
+  "description": "A lightweight, Android-inspired notes system with image attachments, categorization, and a built-in Pomodoro/Interval timer.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "notes",
+    "timer",
+    "offline-first"
+  ]
+}
